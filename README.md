@@ -8,7 +8,7 @@ Elizabeth Mwende Muthusi
 
 ##### Date
 
-31/03/2023.
+15/04/2023.
 
 ### About
 
@@ -23,7 +23,7 @@ This is a magazine outlet API.
 - Git (to clone the repository)
 - Ruby 2.7.4
 - Rails
-- Sqlite3 (to run the database)
+- Postgresql (to run the database)
 - Postman (to test the API)
 
 #### Installing and Running
